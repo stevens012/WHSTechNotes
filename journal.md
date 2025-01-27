@@ -19,7 +19,11 @@ manufacturing technologyn reduces costs and improves quality
    Federal restrictions.in december 2019,the united states army and navy banned tiktok on government devices after the department of defence labeled it security risk.before the policy change,army recruiters had been  usingbthe platform to attract young people.
    the supreme court is upholding the federal law set to ban the social media app on sunday unless it cuts ties with bytedance .the supreme court ruled against tiktok on friday,rejecting the short-form vidio app's apeal of law .concerns that chenese government could manipulate content and gain accces to sensitive user data through the app.
    A smoking policy covers a workplace's rules regarding smoking and tobacco use.many companies do not allow smoking on their premises.its's important for employees to know where and when they can smoke, if applicable.implementation can be defined as one of the key stages in policymaking usually followed by evaluation.you should becareful when investing monney in apps so that your money cannot go  away,because as you can se tiktok is going to be banned.the ones who invest their money will go with nothing.tiktok is rife with dangerous misinformation that the government can and should rightly ban.
-   
+   # january 27, 2025
+   Jimmy	Honda Civic	Drilled Hole In Gas Tank
+Kayla	GMC Sierra	Fixed Wrong Problem
+Bart	Toyota Corolla	Left Stains On Carpet
+Harrison	Subaru Forester	Left The Oil Cap Off
 
 
 
