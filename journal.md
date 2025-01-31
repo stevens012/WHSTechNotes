@@ -24,7 +24,12 @@ manufacturing technologyn reduces costs and improves quality
 Kayla	GMC Sierra	Fixed Wrong Problem
 Bart	Toyota Corolla	Left Stains On Carpet
 Harrison	Subaru Forester	Left The Oil Cap Off
-
+| Name     | Car | Mistake |
+| :------- |        |
+| Jimmy    | honda civic     |hole in gas tank         |
+| Kayla    | gms sierra    |  fixed wrong problem       |
+| Bart     | toyota corolla    | left stains on carpet        |
+| Harrison |  subaru forester   |  left the oil cap off       |
 
 
 
