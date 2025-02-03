@@ -30,7 +30,20 @@ Harrison	Subaru Forester	Left The Oil Cap Off
 | Kayla    | gms sierra    |  fixed wrong problem       |
 | Bart     | toyota corolla    | left stains on carpet        |
 | Harrison |  subaru forester   |  left the oil cap off       |
-
+ # february 3, 2025
+ Technology is a key part of modern aviation, from air traffic control systems to automated flight assistance. Possible Connections to Computer Science.
+Air Traffic Control Systems – How do computer algorithms manage airspace and prevent collisions?
+Automation & AI in Aviation – The role of autopilot systems, real-time alerts, and AI-driven decision-making.
+Software Errors & Bugs – How can coding flaws or miscommunication between different software systems contribute to accidents?
+Human-Computer Interaction (HCI) – Did poor interface design or unclear alerts play a role in the crash?
+Cybersecurity in Aviation – Could hacking, jamming, or cyber vulnerabilities pose risks in air traffic management?
+Big Data & Predictive Analytics – How could machine learning be used to predict and prevent accidents?  advanced collision avoidance systems, real-time data analysis using artificial intelligence (AI), improved aircraft maintenance monitoring, enhanced air traffic control systems, and sophisticated pilot training simulators, all working together to predict and prevent potential hazards, optimize flight paths, and provide pilots with critical information in real-time. 
+ Aircraft Systems:
+Enhanced Ground Proximity Warning System (GPWS): More accurate terrain awareness and alerts to prevent controlled flight into terrain (CFIT) accidents. 
+Head-Up Displays (HUDs): Provide pilots with critical flight information directly on their line of sight, improving situational awareness. 
+Synthetic Vision Systems (SVS): Generate a virtual image of the terrain, particularly useful in low visibility conditions. 
+Automated flight control systems: Can assist pilots with critical maneuvers, reducing human error. 
+Overall, the integration of advanced technology in aviation has the potential to significantly enhance safety by providing real-time situational awareness, automated decision-making capabilities, and preventative measures to address potential hazards throughout the flight cycle. 
 
 
 
