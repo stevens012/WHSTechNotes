@@ -44,8 +44,14 @@ Head-Up Displays (HUDs): Provide pilots with critical flight information directl
 Synthetic Vision Systems (SVS): Generate a virtual image of the terrain, particularly useful in low visibility conditions. 
 Automated flight control systems: Can assist pilots with critical maneuvers, reducing human error. 
 Overall, the integration of advanced technology in aviation has the potential to significantly enhance safety by providing real-time situational awareness, automated decision-making capabilities, and preventative measures to address potential hazards throughout the flight cycle. 
-
-
+ # february 11, 2025
+| shape        | colour       | count        |
+| :------------| -------------|--------------|      
+|circle        | green        | 7            |
+|square        | yellow       | 5            |
+|hexagon       | brown        | 6            |
+|triangle      | purple       | 4            |
+|octagon       | red          | 3            |
 
 
 
