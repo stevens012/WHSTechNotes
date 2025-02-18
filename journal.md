@@ -52,7 +52,9 @@ Overall, the integration of advanced technology in aviation has the potential to
 |hexagon       | brown        | 6            |
 |triangle      | purple       | 4            |
 |octagon       | red          | 3            |
-
+ # February 18, 2025
+ the most thing l learn in this class is  game,the  games l played are one of my favourite games.l gained mmore experience playing this game .
+ first when l started playing this games  it was so difficult,now l have started  understanding and playing good.the reason why l found interesting is that alot of children  the do play this game and the gained experience of playing this game and  help them  in school or at  home.
 
 
 
