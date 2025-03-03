@@ -58,8 +58,14 @@ Overall, the integration of advanced technology in aviation has the potential to
  # february 24, 2025
  Technology can act as a powerful bridge between generations by providing accessible communication tools that cater to different preferences, allowing individuals to express themselves comfortably regardless of age or cultural background. For instance, utilizing video conferencing platforms with translation capabilities can facilitate cross-cultural conversations, while project management software with visual elements can help bridge understanding gaps between generations with varying digital literacy levels. 
 Maintaining professionalism and cultural sensitivity within this technological framework is crucial. This means respecting individuals' communication styles, offering training on appropriate digital etiquette, and ensuring that technology is used to enhance understanding rather than replace human interaction. By thoughtfully integrating technology while being mindful of diverse cultural nuances, organizations can foster a more inclusive environment where all generations can contribute effectively. 
-
-
+# march 3, 2025
+| name         | power                   | challenge               |
+| :------------| ------------------------|-------------------------|
+| zara         |telekenesls              |secure bulding           |
+| aether       |weather manipulation     |prevent assassination    |
+| thorne       |invisibility             |underwater rescue        |
+| silver       |mind control             |retrieve stolen goods    |
+| tangier      |shapeshifting            |extract prisoner         |
    
    
  
