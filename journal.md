@@ -96,7 +96,7 @@ Online Communities: Join online communities or forums to connect with people who
   To craft a compelling social media essay about March Madness, consider exploring themes like the tournament's impact on fan engagement, the role of social media in shaping narratives, or the emotional connection fans have with the event. 
   social media platforms are used to shape the narrative around March Madness, including the rise of memes, highlights, and fan-generated content. 
   # march 31, 2025
-  As for how I'm feeling emotionally, I'm doing a lot better today than I was last week. Last week I was worried about a lot of things, but now l am goood.
+  As for how I'm feeling emotionally, I'm doing a lot better today than I was last week. Last week I was worried about a lot of things, but now l am good.
   The difficulty of balancing many activities at once. The pressure to perform well in school and meet deadlines.
   Get active. Almost any form of physical activity can act as a stress reliever.
 Eat a healthy diet. Eating a healthy diet is an important part of taking care of yourself.
