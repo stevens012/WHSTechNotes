@@ -102,7 +102,8 @@ Online Communities: Join online communities or forums to connect with people who
 Eat a healthy diet. Eating a healthy diet is an important part of taking care of yourself.
 IMPROVE OR MAINTAIN GOOD GRADES​​ You can stay on track and motivated throughout the school year by breaking down the larger goal.
 Talking about your emotions and experiences with a trusted friend, family member, community member or my friends.
-
+ # april 2, 2025
+ l did the flappy game from yesterday
   
   
 
