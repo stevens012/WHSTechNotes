@@ -104,11 +104,12 @@ IMPROVE OR MAINTAIN GOOD GRADES​​ You can stay on track and motivated throug
 Talking about your emotions and experiences with a trusted friend, family member, community member or my friends.
  # april 2, 2025
  l did the flappy game from yesterday
-  
-  
-
-
-
+   # april 7, 2025
+   The AI tool, alongside adaptive applications, provides a highly personalized learning experience for each student,and it can help us to learn more things we don't know in a test.
+  One of the most practical applications of this technology for college students is using AI tools to generate practice questions based on assignments or reading materials.
+Through adaptive learning technologies, artificial intelligence can analyze a student's strengths, weaknesses, learning pace and preferences.
+AI is reshaping student learning by offering personalized experiences, instant feedback, and access to advanced resources, while also posing potential challenges like reliance and bias.
+i used sometime AI,because l din't know the answer.while  why is bad to use AI it make us lazy and the time the test we start doing it we forget everything.
 
 
 
