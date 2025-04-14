@@ -110,7 +110,13 @@ Talking about your emotions and experiences with a trusted friend, family member
 Through adaptive learning technologies, artificial intelligence can analyze a student's strengths, weaknesses, learning pace and preferences.
 AI is reshaping student learning by offering personalized experiences, instant feedback, and access to advanced resources, while also posing potential challenges like reliance and bias.
 i used sometime AI,because l din't know the answer.while  why is bad to use AI it make us lazy and the time the test we start doing it we forget everything.
-
+  # april 14, 2025
+  Bans on books or cell phones in schools are a complex issue with both potential benefits and drawbacks for students.
+  While some argue bans can improve focus and academic performance, others contend they limit learning, restrict freedom of thought, and stifle intellectual growth.
+  School policies can significantly impact student behavior, safety, and learning. Strict, punitive policies may lead to increased behavioral problems, lower academic achievement, and negative self-esteem, especially for marginalized students.
+  Conversely, positive and restorative approaches can promote better behavior and a more positive school climate, addressing underlying causes and supporting student development.
+  Students may find it harder to connect with family or friends during emergencies, and may be more likely to engage in disruptive behavior if they feel their phones are unfairly restricted. 
+  it is good because it help pupils to study harder and score the highest in a test or exams.
 
 
 
