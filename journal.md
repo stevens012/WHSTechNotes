@@ -117,7 +117,11 @@ i used sometime AI,because l din't know the answer.while  why is bad to use AI i
   Conversely, positive and restorative approaches can promote better behavior and a more positive school climate, addressing underlying causes and supporting student development.
   Students may find it harder to connect with family or friends during emergencies, and may be more likely to engage in disruptive behavior if they feel their phones are unfairly restricted. 
   it is good because it help pupils to study harder and score the highest in a test or exams.
-
+| Name    |flavour  |occasion        |price    |
+| :------ | --------|----------------|-------- |
+|Sally    |chocolate|graduation      | $35.00  |      
+|Michael  |vanilla  |farewell party  | $37.00  |
+|Emma     |carrot   | birthday       | $39.00  |
 
 
 
