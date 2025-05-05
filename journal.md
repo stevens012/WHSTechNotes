@@ -122,8 +122,16 @@ i used sometime AI,because l din't know the answer.while  why is bad to use AI i
 |Sally    |chocolate|graduation      | $35.00  |      
 |Michael  |vanilla  |farewell party  | $37.00  |
 |Emma     |carrot   | birthday       | $39.00  |
-
-
+# may 5, 2025
+They have incredible upper body strength, really strong jaw muscles.
+So, they bring a lot to a fight," she explained.
+But that doesn't mean one gorilla could take on 100 human men! "I think just the sheer numbers that the humans have would mean that the gorilla would probably eventually be overpowered.
+yes,because to show how human have capability to go against the giant gorilla.
+The initial question, originating on a Reddit forum, quickly gained traction on platforms like TikTok, reaching a broader audience through influencers and popular personalities like MrBeast. 
+The educational aspect arises as experts are now weighing in, adding a layer of scientific analysis and critical thinking to the initial entertainment aspect. 
+Claim: 100 unarmed men could likely defeat a single adult male gorilla, though it would come at a high cost in terms of casualties and injuries.
+Evidence:100 men would have a significant numerical advantage, allowing them to overwhelm the gorilla's attack capabilities. 
+Reasoning:The sheer number of men would make it difficult for the gorilla to effectively defend itself. 
 
 
 
