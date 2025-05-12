@@ -132,8 +132,35 @@ The educational aspect arises as experts are now weighing in, adding a layer of 
 Claim: 100 unarmed men could likely defeat a single adult male gorilla, though it would come at a high cost in terms of casualties and injuries.
 Evidence:100 men would have a significant numerical advantage, allowing them to overwhelm the gorilla's attack capabilities. 
 Reasoning:The sheer number of men would make it difficult for the gorilla to effectively defend itself. 
-
-
+ # may 12, 2025
+ Messing with electronics can be very dangerous.
+ Chromebook batteries are made with lithium-ion.
+ If they’re damaged, they can catch fire, leak chemicals, or even exploded.
+Here’s what can happen:
+Burns: Batteries can overheat and cause burns.
+Fires: Damaged batteries can start fires at home or school.
+Smoke Inhalation: Breathing in battery smoke is harmful.
+Discipline: Kids can face school punishment or even legal trouble.
+Device Loss: Most Chromebooks are loaned by schools.
+Breaking them can mean having to pay for a new one or face other consequences as decided by your child’s school.
+It’s not just about the device—it’s about your child’s safety and the safety of everyone around them.
+Guide kids in asking the right questions
+It’s okay for kids to be curious, creative, and even a little silly online.
+But common sense and safety should always come first.
+Consider creating a questions checklist when in doubt: 
+•    “Is this safe?”
+•    “Does this help me or hurt me?”
+•    “Would I be proud to show this to my teacher, grandma, or a police officer?”It’s tempting to say “no more TikTok!” But the truth is, social media isn’t going away.
+Instead of banning it completely, we can teach kids to use it wisely.
+Evidence and Examples:
+The challenge encourages students to insert metal objects into charging ports, creating a direct path for electricity and potentially causing electric shocks or fires.
+A Connecticut middle school student was even hospitalized after a fire started due to this trend.
+Reasoning:
+Individuals have a moral and ethical duty to protect themselves and others from harm.
+The Chromebook challenge directly contradicts this responsibility by promoting risky behavior that can lead to injury and property damage.
+Claim:
+primarily TikTok, involves students jamming metal objects like paperclips and pencils into the charging ports of Chromebooks.
+his activity is dangerous as it can cause permanent damage, electrical shorts, and even fire hazards.
 
 
 
